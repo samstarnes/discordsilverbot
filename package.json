@@ -1,0 +1,12 @@
+{
+	"author": "Anomaly",
+	"license": "MIT",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"axios": "^0.21.1",
+		"discord.js": "^14.3.0",
+		"dotenv": "^5.0.0"
+	}
+}
